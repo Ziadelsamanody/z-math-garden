@@ -11,7 +11,6 @@ Math Garden is an interactive educational website designed to help children prac
 
 ## Technical Implementation
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: Node.js with Express.js
 - **Machine Learning**: TensorFlow for model training, TensorFlow.js for client-side inference
 - **Dataset**: MNIST (Modified National Institute of Standards and Technology) database of handwritten digits
 
